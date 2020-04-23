@@ -1,0 +1,53 @@
+
+@font-face{
+	font-family: SayacFont;
+	src: url('font/forgetmenot.ttf');
+}
+
+@font-face{
+	font-family: FeelFont;
+	src: url('font/Mf Feel My Heart.ttf');
+}
+
+.bolum-div{
+	margin: auto;
+    width: 50%;
+	border:1px solid;
+    border-color:#DF013A;
+    padding: 10px;
+	border-radius: 15px;
+	text-align: center;
+	margin-bottom : 15px;
+}
+
+h1{
+	font-family:FeelFont;
+	font-weight: bold;
+	color:#FF0040;
+	font-size:45px;
+}
+
+h3{
+	font-family:FeelFont;
+	font-weight: bold;
+	color: #FF0040;
+	font-size:40px;
+	
+}
+
+.sayac{
+	font-family:SayacFont;
+	font-weight: bold;
+	color:#FE2E64;
+	font-size:30px;
+}
+
+#anaBolum {
+	width: 100%;
+	background-image: url('../images/arkaPlan.png');
+	background-size:     cover;  
+    background-repeat:   no-repeat;
+    background-position: center center;
+}
+
+
